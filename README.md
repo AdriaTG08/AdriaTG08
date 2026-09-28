@@ -1,7 +1,4 @@
 <!-- ================= CABECERA ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:7F00FF,100:FF006E&height=260&section=header&text=Adria&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Estudiante%20ASIX%20%7C%20Futuro%20Pentester%20%26%20Bug%20Bounty%20Hunter&descSize=20&descAlignY=65" width="100%" alt="Adria - Estudiante ASIX - Futuro Pentester y Bug Bounty Hunter"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=%3E+whoami+%E2%86%92+estudiante+de+ASIX;%3E+objetivo+%E2%86%92+Pentester+%2F+Bug+Bounty+Hunter;%3E+sistema+%E2%86%92+Fedora+Linux;%3E+rompiendo+cosas%2C+con+permiso%2C+para+aprender;%3E+siempre+aprendiendo+algo+nuevo" alt="Estudiante de ASIX, futuro Pentester y Bug Bounty Hunter"/>
@@ -225,27 +222,13 @@ user@fedora:~$ _
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7F00FF,100:00F7FF&height=120&section=footer" width="100%" alt=""/>
 </p>
 
-<!--
-=====================================================================
-  BLOQUES OPCIONALES (activalos quitando las marcas de comentario)
-=====================================================================
-
-  SERPIENTE (solo despues de ejecutar el workflow, ver paso 3):
-
-  <h2>🐍 Actividad</h2>
+<h2>🐍 Actividad</h2>
   <p align="center">
     <img src="https://raw.githubusercontent.com/AdriaTG08/AdriaTG08/output/github-snake-dark.svg" alt="Serpiente de contribuciones"/>
   </p>
 
-  ESTADISTICAS (pueden fallar si el servicio publico esta saturado):
-
   <h2>📊 Estadísticas</h2>
-  <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdriaTG08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriaTG08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top lenguajes"/>
-  </p>
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=AdriaTG08&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha"/>
   </p>
 =====================================================================
--->
