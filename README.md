@@ -1,5 +1,3 @@
-<!-- ================= CABECERA ================= -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=%3E+whoami+%E2%86%92+estudiante+de+ASIX;%3E+objetivo+%E2%86%92+Pentester+%2F+Bug+Bounty+Hunter;%3E+sistema+%E2%86%92+Fedora+Linux;%3E+rompiendo+cosas%2C+con+permiso%2C+para+aprender;%3E+siempre+aprendiendo+algo+nuevo" alt="Estudiante de ASIX, futuro Pentester y Bug Bounty Hunter"/>
 </p>
@@ -10,7 +8,6 @@
   <img src="https://img.shields.io/badge/Girona-Espa%C3%B1a-FF006E?style=for-the-badge&labelColor=0d1117" alt="Girona, España"/>
 </p>
 
-<!-- Menu: badges SIN emojis en la URL (los emojis hacen fallar la carga) -->
 <p align="center">
   <a href="#sobre-mi"><img src="https://img.shields.io/badge/-SOBRE_MI-00F7FF?style=for-the-badge&labelColor=0d1117" alt="Sobre mí"/></a>
   <a href="#arsenal"><img src="https://img.shields.io/badge/-ARSENAL-7F00FF?style=for-the-badge&labelColor=0d1117" alt="Arsenal"/></a>
@@ -21,7 +18,6 @@
 
 <br>
 
-<!-- ================= SOBRE MI ================= -->
 <a id="sobre-mi"></a>
 
 ## 👤 Sobre mí
@@ -59,7 +55,6 @@ Entender **cómo funcionan** los sistemas y las redes para saber **cómo se romp
 
 <br>
 
-<!-- ================= ARSENAL ================= -->
 <a id="arsenal"></a>
 
 ## 🔧 Arsenal
@@ -113,7 +108,6 @@ Entender **cómo funcionan** los sistemas y las redes para saber **cómo se romp
 
 <br>
 
-<!-- ================= PROYECTOS ================= -->
 <a id="proyectos"></a>
 
 ## 🚀 Proyectos
@@ -160,7 +154,6 @@ Máquinas vulnerables aisladas en VirtualBox para practicar sin riesgo.
 
 <br>
 
-<!-- ================= ROADMAP ================= -->
 <a id="roadmap"></a>
 
 ## 📍 Roadmap
@@ -231,4 +224,3 @@ user@fedora:~$ _
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=AdriaTG08&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha"/>
   </p>
-=====================================================================
